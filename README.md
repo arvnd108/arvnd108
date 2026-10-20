@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d2ff&height=220&section=header&text=Arvind%20Kaushik&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20Systems%20that%20can%20be%20verified&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Arvind Kaushik banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00D2FF&center=true&vCenter=true&width=720&lines=B.Tech+CSE+(AI%2FML)+%40+University+of+Delhi;I+build+evidence-grounded+AI+systems;Hackathon+finalist+%E2%80%A2+Smart+India+Hackathon+2026;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+JavaScript" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00D2FF&center=true&vCenter=true&width=720&lines=B.Tech+CSE+(AI%2FML)+%40+University+of+Delhi;I+build+evidence-grounded+AI+systems;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+JavaScript" alt="Typing animation"/>
 </a>
 
 <br/>
