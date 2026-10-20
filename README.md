@@ -160,8 +160,8 @@ I work mainly in **Python, JavaScript, FastAPI and React**, and I care about hon
 
 | Event | Result | When | Organiser |
 | :-- | :-- | :-- | :-- |
-| **Yantrika 1.0: Nari Kavach** | 🥈 **Finalist**, EVOCK | 1-9 Sep 2026 | IEEE CS Society, Faculty of Technology, DU |
-| **Hack4ViksitBharat** | 🏅 **Semi-finalist**, FundMyStudy | 3-9 Feb 2026 | GeeksforGeeks, Faculty of Technology, DU |
+| **Yantrika 1.0: Nari Kavach** | 🏅 **Finalist**, EVOCK | 1-9 Sep 2026 | IEEE CS Society, Faculty of Technology, DU |
+| **Hack4ViksitBharat** | 🥈 **Semi-finalist**, FundMyStudy | 3-9 Feb 2026 | GeeksforGeeks, Faculty of Technology, DU |
 | **Smart India Hackathon 2026** | ✅ **Cleared internal college round**, Athena (PS 26198) and WEAVR (PS 26081) | 25 Aug 2026 – ongoing | Next result pending 🤞 |
 
 ---
